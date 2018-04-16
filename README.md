@@ -1,17 +1,16 @@
 # Zombie Apocalypse v4.3
 
+## Installation
 
-installation
-------------
-cd zombie_apocalypse
-bundle install
-
-
-run zombie apocalypse
-----------------------
-ruby zombie_apocalypse_runner.rb
+`cd zombie_apocalypse`
+`bundle install`
 
 
-run tests
-----------
-rspec spec
+##  Run an apocalypse
+
+`ruby zombie_apocalypse_runner.rb`
+
+
+## Run tests
+
+`rspec spec`
